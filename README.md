@@ -10,6 +10,7 @@
    8 git status
    9 code .
   10 python project.py
+<<<<<<< HEAD
 
      New-Item Dockerfile
     code Dockerfile
@@ -17,3 +18,5 @@
    7 docker images
    8 docker run vaibhavbhawsar/pythonapp
  10 docker push vaibhavbhawsar/pythonapp
+=======
+>>>>>>> 4872c671466c9f667bc6716c96ffbb5f71de3ca0
